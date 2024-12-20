@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Users/Harshal/OneDrive/Desktop/dot batch"
+		},
+		{
+			"path": "../campus"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "dot batch"
+	}
+}
